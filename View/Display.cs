@@ -12,6 +12,9 @@ namespace MVC_CarMarket.View
 
         public void ShowMainMenu()
         {
+            //test new branch 
+            Console.WriteLine("hello");
+
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
             Console.WriteLine("1) Покажи списък на хората и колекциите им");
